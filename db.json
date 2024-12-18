@@ -1,0 +1,167 @@
+{
+  "allVideos": [
+    {
+      "caption": "Amaran",
+      "imageUrl": "https://th.bing.com/th/id/OIP.7i38hyjOrDyirJbhB-rj-gHaLk?rs=1&pid=ImgDetMain",
+      "youtubeUrl": "http://www.youtube.com/embed/AY3Yea6hBbI",
+      "id": 4
+    },
+    {
+      "caption": "Vaazha",
+      "imageUrl": "https://image.tmdb.org/t/p/original/6SFL0Z5x4FQTNYoDCp6SbbyydQm.jpg",
+      "youtubeUrl": "http://www.youtube.com/embed/e1BHIY9p2WU",
+      "id": 2
+    },
+    {
+      "caption": "Mufasa",
+      "imageUrl": "https://th.bing.com/th/id/OIP._ZnxlBzzIE05hnWsyjVJmwAAAA?rs=1&pid=ImgDetMain",
+      "youtubeUrl": "http://www.youtube.com/embed/o17MF9vnabg",
+      "id": 5
+    },
+    {
+      "caption": "Mufasa",
+      "imageUrl": "https://th.bing.com/th/id/OIP._ZnxlBzzIE05hnWsyjVJmwAAAA?rs=1&pid=ImgDetMain",
+      "youtubeUrl": "http://www.youtube.com/embed/d9MyW72ELq0",
+      "id": 6
+    },
+    {
+      "caption": "Mufasa",
+      "imageUrl": "https://th.bing.com/th/id/OIP._ZnxlBzzIE05hnWsyjVJmwAAAA?rs=1&pid=ImgDetMain",
+      "youtubeUrl": "http://www.youtube.com/embed/d9MyW72ELq0",
+      "id": 7
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "movies",
+      "allVideos": []
+    },
+    {
+      "id": 2,
+      "categoryName": "Albums",
+      "allVideos": [
+        {
+          "caption": "Mufasa",
+          "imageUrl": "https://th.bing.com/th/id/OIP._ZnxlBzzIE05hnWsyjVJmwAAAA?rs=1&pid=ImgDetMain",
+          "youtubeUrl": "http://www.youtube.com/embed/o17MF9vnabg",
+          "id": 5
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "caption": "Moana2",
+      "youtubeUrl": "http://www.youtube.com/embed/hDZ7y8RP5HE",
+      "formatDate": "12/5/2024, 2:13:58 PM",
+      "id": 13
+    },
+    {
+      "caption": "Avesham",
+      "youtubeUrl": "http://www.youtube.com/embed/tOM-nWPcR4U",
+      "formatDate": "12/5/2024, 2:59:56 PM",
+      "id": 14
+    },
+    {
+      "caption": "Vaazha",
+      "youtubeUrl": "http://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatDate": "12/9/2024, 2:25:46 PM",
+      "id": 15
+    },
+    {
+      "caption": "Avesham",
+      "youtubeUrl": "http://www.youtube.com/embed/tOM-nWPcR4U",
+      "formatDate": "12/11/2024, 10:39:25 PM",
+      "id": 16
+    },
+    {
+      "caption": "Sookshmadarshini ",
+      "youtubeUrl": "http://www.youtube.com/embed/IrkfzvO9LkE",
+      "formatDate": "12/12/2024, 1:18:59 AM",
+      "id": 17
+    },
+    {
+      "caption": "Sookshmadarshini ",
+      "youtubeUrl": "http://www.youtube.com/embed/IrkfzvO9LkE",
+      "formatDate": "12/12/2024, 1:25:36 AM",
+      "id": 18
+    },
+    {
+      "caption": "ARM",
+      "youtubeUrl": "http://www.youtube.com/embed/M-yqIcuVNe8",
+      "formatDate": "12/12/2024, 7:59:11 AM",
+      "id": 19
+    },
+    {
+      "caption": "Avatar",
+      "youtubeUrl": "http://www.youtube.com/embed/d9MyW72ELq0",
+      "formatDate": "12/12/2024, 8:18:18 AM",
+      "id": 20
+    },
+    {
+      "caption": "Arm",
+      "youtubeUrl": "http://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatDate": "12/12/2024, 8:48:41 AM",
+      "id": 21
+    },
+    {
+      "caption": "Vaazha",
+      "youtubeUrl": "http://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatDate": "12/12/2024, 10:28:18 AM",
+      "id": 22
+    },
+    {
+      "caption": "Venom",
+      "youtubeUrl": "http://www.youtube.com/embed/HyIyd9joTTc",
+      "formatDate": "12/12/2024, 6:48:13 PM",
+      "id": 23
+    },
+    {
+      "caption": "Amaran",
+      "youtubeUrl": "http://www.youtube.com/embed/AY3Yea6hBbI",
+      "formatDate": "12/12/2024, 6:49:11 PM",
+      "id": 24
+    },
+    {
+      "caption": "Venom",
+      "youtubeUrl": "http://www.youtube.com/embed/HyIyd9joTTc",
+      "formatDate": "12/12/2024, 7:33:15 PM",
+      "id": 25
+    },
+    {
+      "caption": "Avatar",
+      "youtubeUrl": "http://www.youtube.com/embed/d9MyW72ELq0",
+      "formatDate": "12/12/2024, 11:14:11 PM",
+      "id": 26
+    },
+    {
+      "caption": "Moana",
+      "youtubeUrl": "http://www.youtube.com/embed/U9_YtmCm5-o",
+      "formatDate": "12/12/2024, 11:14:23 PM",
+      "id": 27
+    },
+    {
+      "caption": "Venom",
+      "youtubeUrl": "http://www.youtube.com/embed/HyIyd9joTTc",
+      "formatDate": "12/12/2024, 11:28:40 PM",
+      "id": 28
+    },
+    {
+      "formatDate": "12/13/2024, 9:38:35 AM",
+      "id": 29
+    },
+    {
+      "caption": "Amaran",
+      "youtubeUrl": "http://www.youtube.com/embed/AY3Yea6hBbI",
+      "formatDate": "12/13/2024, 10:11:57 AM",
+      "id": 30
+    },
+    {
+      "caption": "Mufasa",
+      "youtubeUrl": "http://www.youtube.com/embed/o17MF9vnabg",
+      "formatDate": "12/14/2024, 8:09:13 AM",
+      "id": 31
+    }
+  ]
+}

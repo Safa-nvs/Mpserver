@@ -1,0 +1,16 @@
+to create package.json in your created json file
+--------------------------
+npm init -y
+
+to install json server
+----------------------
+npm i json-server@0.17.4
+
+to run local hot in server
+----------------------------
+npx json-server db.json(file name)
+
+axios 
+-----
+1-install axios-
+------------------>  npm i axios
